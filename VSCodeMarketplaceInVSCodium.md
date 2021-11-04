@@ -1,4 +1,4 @@
-### <a id="howto-vscode-marketplace"></a>How to use the VS Code Marketplace
+### <a id="howto-vscode-marketplace"></a>How to use the VS Code Marketplace in VSCodium
 
 You can switch and use the VS Code marketplace by using the following solutions. However, note that [it is not clear whether this is legal](https://github.com/microsoft/vscode/issues/31168).
 
